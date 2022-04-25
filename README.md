@@ -1,4 +1,4 @@
-# :star:*Han Soyeon* 
+# *HELL0, My name is Han Soyeon* 
     * 생년월일
     * 성격
     * 혈액형
