@@ -4,10 +4,10 @@ Did you have a happy day? Would you like to hear my introduction for a moment?
 ## *mbti로 보는 나의 성격*
 ![image description](https://user-images.githubusercontent.com/86066543/165083267-fe8d5d76-d126-449c-a1ec-7c737dd7ea7f.png)
 
-    - 노는 것을 매우 좋아하는 뽀로로!
-    - 사람자체를 좋아해서 사람들과 있으면 행복한 유형
-    - 낙천적이지만 꽤 현실적인 편 
-    - ~~진지하지 않은 것처럼 보이지만 은근 속이 깊어요~~
+ 노는 것을 매우 좋아하는 뽀로로!
+ 사람자체를 좋아해서 사람들과 있으면 행복한 유형
+ 낙천적이지만 꽤 현실적인 편 
+ ~~진지하지 않은 것처럼 보이지만 은근 속이 깊어요~~
     
 ## *2022년 나의 버킷리스트*
 * **항상 웃으면서 살기**
