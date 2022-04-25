@@ -1,4 +1,5 @@
 # *Hello, My name is Han Soyeon* 
+Did you have a happy day? Would you like to hear my introduction for a moment?
 
 # *mbti로 보는 나의 성격*
 ![image description](https://user-images.githubusercontent.com/86066543/165083267-fe8d5d76-d126-449c-a1ec-7c737dd7ea7f.png)
