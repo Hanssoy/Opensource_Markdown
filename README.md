@@ -1,10 +1,9 @@
-# Markdown Study
-## *Han Soyeon* 한소연
+# :star:*Han Soyeon* 
     * 생년월일
     * 성격
     * 혈액형
     * 장점
-    * 단점
+    * 단점Opensource_Markdown
     * MBTI
     * 좋아하는 명언, 책
     * 연혁
