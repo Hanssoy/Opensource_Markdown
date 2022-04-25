@@ -1,5 +1,5 @@
 # *Hello, My name is Han Soyeon* 
-####Did you have a happy day? Would you like to hear my introduction for a moment?
+**Did you have a happy day? Would you like to hear my introduction for a moment?**:blush:
 
 ## *mbti로 보는 나의 성격*
 ![image description](https://user-images.githubusercontent.com/86066543/165083267-fe8d5d76-d126-449c-a1ec-7c737dd7ea7f.png)
@@ -17,6 +17,10 @@
 - [ ] **공부 블로그 시작하기**
 - [x] **후회없이 놀기**
 
-## 삶의 모토 "Stay hungry Stay foolish"
+## *삶의 모토 "Stay hungry Stay foolish"*
 ![image description](https://user-images.githubusercontent.com/86066543/165087445-579fb3a5-df9c-466a-b831-37817511df08.gif)
+
+## 나는 어떻게 살아왔는가?
+|Header|Description|
+|:--:||:--:|
 
