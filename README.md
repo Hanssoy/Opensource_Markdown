@@ -1,7 +1,7 @@
 # *Hello, My name is Han Soyeon* 
 
 # *mbti로 보는 나의 성격*
-![image description]![esfp](https://user-images.githubusercontent.com/86066543/165083267-fe8d5d76-d126-449c-a1ec-7c737dd7ea7f.png)
+![image description](https://user-images.githubusercontent.com/86066543/165083267-fe8d5d76-d126-449c-a1ec-7c737dd7ea7f.png)
 
     - Markdown을 이용하여 본인 소개
 
