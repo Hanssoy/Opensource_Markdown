@@ -19,7 +19,8 @@
 
 ## *삶의 모토 "Stay hungry Stay foolish"*
 > **"Stay hungry Stay foolish"**
-![image description](https://user-images.githubusercontent.com/86066543/165087445-579fb3a5-df9c-466a-b831-37817511df08.gif)
+<img src="https://user-images.githubusercontent.com/86066543/165087445-579fb3a5-df9c-466a-b831-37817511df08.gif" height="100px" width="300px">
+
 
 ## 나는 어떻게 살아왔는가?
 |History|Description|
