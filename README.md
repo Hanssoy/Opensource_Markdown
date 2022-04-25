@@ -21,6 +21,13 @@
 ![image description](https://user-images.githubusercontent.com/86066543/165087445-579fb3a5-df9c-466a-b831-37817511df08.gif)
 
 ## 나는 어떻게 살아왔는가?
-|Header|Description|
-|--|--|
+|History|Description|
+|:--:|:--:|
+|2001|경기도 오산 출생|
+|2007|행남초등학교 입학|
+|2013|행신중학교 입학|
+|2016|행신고등학교 입학|
+|2019|행신고등학교 졸업|
+|2019|9급공무원 준비|
+|2020|단국대학교 입학|
 
